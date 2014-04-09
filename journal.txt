@@ -1,6 +1,6 @@
 Sarah smells
 title planty stuff
-author: sarah
+author: Sarah
 
 abstract
 materials
